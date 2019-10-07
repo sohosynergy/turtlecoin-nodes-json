@@ -152,6 +152,13 @@
       "port": 11898,
       "ssl": false,
       "cache": false
+    },
+    {
+      "name": "Sohosynergy's Turtle Node",
+      "url": "184.175.49.75",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
     }
   ]
 }
